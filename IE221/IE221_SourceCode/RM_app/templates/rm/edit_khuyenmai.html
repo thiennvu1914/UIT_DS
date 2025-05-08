@@ -1,0 +1,11 @@
+{% extends 'rm/base.html' %}
+
+{% block content %}
+<h1>Sửa khuyến mãi</h1>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Lưu</button>
+</form>
+<a href="{% url 'khuyenmai' %}">Quay lại</a>
+{% endblock content %}
