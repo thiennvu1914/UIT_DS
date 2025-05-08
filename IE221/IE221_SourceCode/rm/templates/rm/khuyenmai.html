@@ -1,0 +1,72 @@
+{% extends 'rm/base.html' %}
+
+{% block content %}
+<style>
+ /* Bảng */
+ table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        font-size: 16px;
+        text-align: left;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    table th, table td {
+        padding: 12px 15px;
+        border: 1px solid #ddd;
+    }
+
+    table th {
+        background-color: #f4f4f4;
+        color: #333;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+
+    table tbody tr {
+        background-color: #fff;
+        transition: background-color 0.3s ease;
+    }
+
+    table tbody tr:hover {
+        background-color: #f9f9f9;
+    }
+
+</style>
+<h1>Các khuyến mãi</h1>
+{% if request.user.chucvu in 'admin,quanly' %}
+<a href="{% url 'add_khuyenmai' %}">Thêm khuyến mãi</a>
+{% endif %}
+<table>
+    <tr>
+        <th>Tên khuyến mãi</th>
+        <th>Mã khuyến mãi</th>
+        <th>Phần trăm</th>
+        <th>Tình trạng</th>
+        <th>Hành động</th>
+    </tr>
+    {% for km in khuyenmais %}
+    <tr>
+        <td>{{ km.tenkm }}</td>
+        <td>{{ km.makm }}</td>
+        <td>{{ km.phantram }}%</td>
+        <td>{{ km.get_tinhtrang_display }}</td>
+        {% if request.user.chucvu in 'admin,quanly' %}
+        <td>
+            <a href="{% url 'edit_khuyenmai' km.id %}">Sửa</a>
+
+            <form method="post" action="{% url 'delete_khuyenmai' km.id %}" style="display:inline;">
+                {% csrf_token %}
+                <button type="submit" onclick="return confirm('Bạn có chắc muốn xóa khuyến mãi {{ km.tenkm }} không?');">
+                    Xóa
+                </button>
+            </form>
+        </td>
+        {% endif %}
+    </tr>
+    {% endfor %}
+</table>
+{% endblock content %}
