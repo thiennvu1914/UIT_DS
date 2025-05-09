@@ -69,3 +69,5 @@ Dữ liệu sử dụng bao gồm **299 bệnh nhân** với 13 thuộc tính y 
 
 **📅 Thời gian hoàn thành:** 12/2023  
 **👨‍🏫 Giảng viên hướng dẫn:** *Thầy Dương Ngọc Hảo*
+
+📝 *Dự án phục vụ mục đích học thuật.*
