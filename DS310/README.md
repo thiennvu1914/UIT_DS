@@ -1,5 +1,6 @@
 # 🇻🇳 ViLegalNLI: Vietnamese Legal Natural Language Inference Dataset
 
+**📚 Đồ án môn học:**  Xử lý ngôn ngữ tự nhiên cho Khoa học dữ liệu
 **ViLegalNLI** là tập dữ liệu NLI (Natural Language Inference) đầu tiên được xây dựng dành riêng cho lĩnh vực pháp luật bằng tiếng Việt. Dự án này nhằm phục vụ việc huấn luyện và đánh giá các mô hình học sâu trong bài toán suy diễn ngôn ngữ tự nhiên trên văn bản pháp lý.
 
 ## 👨‍🔬 Nhóm thực hiện
