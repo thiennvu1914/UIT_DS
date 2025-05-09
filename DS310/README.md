@@ -41,3 +41,4 @@ Mặc dù tiếng Việt là ngôn ngữ có hơn 90 triệu người dùng, nh�
 - [PhoBERT Paper](https://arxiv.org/abs/2003.00744)
 
 **Thời gian hoàn thành:** 05/2024
+📝 *Dự án phục vụ mục đích học thuật.*
