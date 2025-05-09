@@ -45,7 +45,7 @@ Trong đồ án này, nhóm áp dụng các thuật toán học máy kết hợp
 
 ---
 
-## 3. ✅ Kết luận
+## 4. ✅ Kết luận
 
 Nhóm đã xây dựng thành công hệ thống chẩn đoán khối u vú dựa trên dữ liệu tế bào học, với hiệu suất trên 95% cho tất cả các mô hình. Các kết quả đạt được khẳng định tiềm năng ứng dụng Machine Learning trong hỗ trợ y tế, đặc biệt là trong việc chẩn đoán sớm ung thư vú.
 
