@@ -1,6 +1,6 @@
 # 🧬 Chẩn đoán Tế Bào Khối U Lành Tính / Ác Tính Trong Ung Thư Vú
 
-**📚 Đồ án môn học:** Nhập môn Khoa học Dữ liệu  
+**📚 Đồ án môn học:** Học máy thống kê  
 **🏫 Trường:** Đại học Công nghệ Thông tin – ĐHQG TP.HCM  
 
 **👨‍💻 Nhóm sinh viên thực hiện:**
