@@ -54,3 +54,4 @@ Nhóm đã xây dựng thành công hệ thống chẩn đoán khối u vú dự
 ---
   
 **🗓️ Thời gian hoàn thành:** 06/2024
+📝 *Dự án phục vụ mục đích học thuật.*
