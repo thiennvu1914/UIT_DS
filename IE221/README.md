@@ -81,6 +81,6 @@ Chức năng đặt món bằng QR Code là điểm sáng của hệ thống:
 
 ---
 
-> 📝 *Dự án thực hiện tại Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM*  
 > Thời gian hoàn thành: **12/2024**
+📝 *Dự án phục vụ mục đích học thuật.*
 
