@@ -1,6 +1,6 @@
 # 🧑‍🍳 Website Quản Lý Nhà Hàng - Django Project
 
-Đây là đồ án cuối kỳ môn *Kỹ thuật Lập trình Python*, được thực hiện bởi Nhóm 11, nhằm xây dựng một hệ thống quản lý nhà hàng đầy đủ chức năng, sử dụng Django framework và cơ sở dữ liệu MySQL.
+**📚 Đồ án môn học:** Kỹ thuật lập trình Python
 
 ## 👨‍💻 Thành viên nhóm
 
