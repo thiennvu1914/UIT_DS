@@ -24,4 +24,12 @@ Topics may include:
 ## 🏫 About the Program:
 **Data Science** is an interdisciplinary field that blends Statistics, Computer Science, and domain knowledge to analyze and process large datasets, aiming to extract valuable insights to support decision-making.
 
-## 📂 Directory Structure (Tentative):
+## 📁 Directory Structure (Tentative)
+
+```bash
+.
+├── DS101/        # Advanced Probability and Statistics
+├── DS102/        # Statistical Machine Learning
+├── DS310/        # Natural Language Processing for Data Science
+├── IE221/        # Python Programming Skills
+└── README.md     # Project repository overview file
