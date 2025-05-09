@@ -1,7 +1,7 @@
-# 📚 UIT_DS - Data Science Projects
+# 📚 UIT_DS – Data Science Projects 
 
-Welcome to the **UIT_DS** repository!  
-This repository contains various projects, major assignments, research, and documents related to the **Data Science** courses at **University of Information Technology (UIT), VNU-HCM**.
+Welcome to my personal repository – **UIT_DS** – where I archive and showcase key projects, assignments, research works, and academic documents throughout my journey as a **Data Science** student at the **University of Information Technology (UIT), VNU-HCM**.
+
 
 ## 🚀 Repository Contents:
 - Final projects
