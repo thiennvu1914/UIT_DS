@@ -21,6 +21,14 @@ Topics may include:
 - Exploratory Data Analysis (EDA)
 - Real-world data science problem applications
 
+## ⭐ Highlighted Work
+
+- **DS102 — Breast Cancer Classification:** classical machine-learning baselines, dimensionality reduction, and model selection.
+- **DS310 — Vietnamese Legal NLI:** Vietnamese legal-domain natural language inference experiments.
+- **IE221 — Restaurant Management:** a Django application covering database design and end-to-end web development.
+
+> This repository is an academic archive. Standalone research and production-oriented projects are maintained in separate repositories on my profile.
+
 ## 🏫 About the Program:
 **Data Science** is an interdisciplinary field that blends Statistics, Computer Science, and domain knowledge to analyze and process large datasets, aiming to extract valuable insights to support decision-making.
 
@@ -28,8 +36,9 @@ Topics may include:
 
 ```bash
 .
-├── DS101/        # Advanced Probability and Statistics
+├── DS101/        # Statistical and computational foundations
 ├── DS102/        # Statistical Machine Learning
+├── DS108/        # Data visualization
 ├── DS310/        # Natural Language Processing for Data Science
 ├── IE221/        # Python Programming Skills
 └── README.md     # Project repository overview file
